@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on mastering the full-stack ecosystem by integrating Vue.js and Materialize interfaces with Laravel.<br>👯 I’m looking to collaborate on Vue component libraries, admin dashboards, and optimizing backend RESTful API integrations.<br>🤝 I’m looking for help with state management in Vue.js and structuring complex Laravel APIs.<br>🌱 I’m currently learning how to write efficient, complex SQL queries and optimize database performance.<br>💬 Ask me about customizing starter kits like Laravel Breeze or integrating UI frameworks like Materialize.<br>⚡ Fun fact: I have a love-hate relationship with CSS frameworks.
+🔭 I’m currently working on mastering the full-stack ecosystem by integrating Vue.js and Materialize interfaces with Laravel.<br><br>👯 I’m looking to collaborate on Vue component libraries, admin dashboards, and optimizing backend RESTful API integrations.<br><br>🤝 I’m looking for help with state management in Vue.js and structuring complex Laravel APIs.<br><br>🌱 I’m currently learning how to write efficient, complex SQL queries and optimize database performance.<br><br>💬 Ask me about customizing starter kits like Laravel Breeze or integrating UI frameworks like Materialize.<br><br>⚡ Fun fact: I have a love-hate relationship with CSS frameworks.
 
 
 ## 🌐 Socials:
